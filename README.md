@@ -46,4 +46,4 @@ It comes with multiple types of operations that include:
 
 
 
-Please connect with to discuss on your doubts or suggest any edit or updates that come to yoour mind.  
+Please connect with to discuss on your doubts or suggest any edit or any kind of update that comes to your mind.  
