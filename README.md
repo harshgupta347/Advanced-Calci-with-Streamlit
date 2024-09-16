@@ -1,6 +1,7 @@
-The program is writtenn in python langauge and profides a interface with the use of streamlit.
+The Project is made in python langauge using of streamlit.
 
 # Points to Highlight
+It comes with multiple types of operations that include: 
 
 ### Basic Operation
 - Addition
