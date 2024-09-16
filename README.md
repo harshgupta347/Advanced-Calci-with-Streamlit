@@ -44,3 +44,6 @@ It comes with multiple types of operations that include:
 - Histogram
 - Pie Chart
 
+
+
+Please connect with to discuss on your doubts or suggest any edit or updates that come to yoour mind.  
